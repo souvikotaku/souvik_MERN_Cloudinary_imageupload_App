@@ -203,7 +203,7 @@ export default function NewUploads() {
                     <p>
                       Go to{" "}
                       <i style={{ fontWeight: "bold" }}>
-                        <Link to="/myUploads">My Uploads</Link>
+                        <Link to="/myuploads">My Uploads</Link>
                       </i>
                     </p>
                   </div>
