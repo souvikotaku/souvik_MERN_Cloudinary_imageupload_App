@@ -97,11 +97,11 @@ export default function Dashboard() {
               <br />
               <div style={{ textAlign: "center", color: "white" }}>
                 <h3 style={{ color: "white" }}>
-                  Go <Link to="/newbooking">Upload some pictures</Link> bro!!
+                  Go <Link to="/newuploads">Upload some pictures</Link> bro!!
                 </h3>
                 <h3>
                   <i style={{ color: "white" }}>or check out </i>
-                  <Link to="/mybooking" i>
+                  <Link to="/myuploads" i>
                     Your Uploads
                   </Link>
                 </h3>
