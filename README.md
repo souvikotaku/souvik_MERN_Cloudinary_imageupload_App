@@ -20,4 +20,4 @@ CLOUDINARY_NAME = your cloudinary name
 CLOUDINARY_API_KEY = your cloudinary api key
 CLOUDINARY_API_SECRET = your cloudinary secret key
 
-#Then you have to do an npm install, then after that, use the command npm run dev to run the app. This command runs the node server and react server together concurrently. Details of how this is done is written in the package.json file and server.js file in the root directory.
+#Then you have to do an npm install(in both the root directory and also inside the client directory), then after that, use the command npm run dev to run the app. This command runs the node server and react server together concurrently. Details of how this is done is written in the package.json file and server.js file in the root directory.
